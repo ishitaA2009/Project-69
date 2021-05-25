@@ -36,7 +36,7 @@ export default class ScanScreen extends React.Component{
         return (
         <View style={styles.container}>
             <Image
-                source={require('../Camera.jpg')}
+                source={require('../assets/Camera.jpg')}
                 style={{
                     width: 300,
                     height: 300,
